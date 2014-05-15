@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "dc-notifier-animate"
-  spec.version       = "0.0.1"
+  spec.version       = "0.1.0"
   spec.authors       = [ "Andy Palmer" ]
   spec.email         = [ "andy@andypalmer.com" ]
   spec.description   = "Threaded animations for the DreamCheeky Email Notifier"
